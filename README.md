@@ -21,3 +21,6 @@
 * The project uses the [Cat Facts API](https://catfact.ninja/) to retrieve cat facts.
 
 **I hope this README.md provides a clear understanding of the project!**
+
+## Developer 
+ - Globes24media@gmail.com
